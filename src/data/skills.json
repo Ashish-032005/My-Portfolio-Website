@@ -1,0 +1,63 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "DSA",
+      "imageSrc": "skills/dsanew.jpg"
+    },
+    {
+      "title": "Next JS",
+      "imageSrc": "skills/nextjs.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Express JS",
+        "imageSrc": "skills/expressjs.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/jsn.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "TailWind CSS",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+        "title": "Socket IO",
+        "imageSrc": "skills/socketio.png"
+    },
+    {
+        "title": "Github",
+        "imageSrc": "skills/github.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/cpp.png"
+    }
+
+  ]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My Portfolio Website",
+    "imageSrc": "projects/image1.png",
+    "description": "It is My Portfolio Website built to showcase my skill and to show my ability to make highly responsive websites with an attractive user interface.",
+    "skills": ["React", "JavaScript", "TailWindCSS"],
+    "demo": "https://ashish-032005.github.io/My-Portfolio-Website/",
+    "source": "https://github.com/Ashish-032005/My-Portfolio-Website"
+  },
+  {
+    "title": "NetUI",
+    "imageSrc": "projects/image2.png",
+    "description": "It is just a UI of Netflix, I built it just to showcase my skills after learning Css. Focusing on modern design principles and user experience.",
+    "skills": ["Html", "Css", "TailWindCSS"],
+    "demo": "https://ashish-032005.github.io/NetFlixClone-Using-HTML-CSS/",
+    "source": "https://github.com/Ashish-032005/NetFlixClone-Using-HTML-CSS"
+  },
+  {
+    "title": "RealTime Tic-Tac-Toe",
+    "imageSrc": "projects/image.png",
+    "description": "Pioneered an immersive gaming environment with lightning-fast moves and real-time updates using Socket.IO. ",
+    "skills": ["Express", "Node", "JavaScript", "Socket IO"],
+    "demo": "https://tictactoe-k069.onrender.com/",
+    "source": "https://github.com/ArpanBareja/RealTime-TicTacToe"
+  }
+]
