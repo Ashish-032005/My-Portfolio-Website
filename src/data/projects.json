@@ -1,7 +1,7 @@
 [
   {
     "title": "My Portfolio Website",
-    "imageSrc": "projects/image1.png",
+    "imageSrc": "projects/image.png",
     "description": "It is My Portfolio Website built to showcase my skill and to show my ability to make highly responsive websites with an attractive user interface.",
     "skills": ["React", "JavaScript", "TailWindCSS"],
     "demo": "https://ashish-032005.github.io/My-Portfolio-Website/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "RealTime Tic-Tac-Toe",
-    "imageSrc": "projects/image.png",
+    "imageSrc": "projects/image3.png",
     "description": "Pioneered an immersive gaming environment with lightning-fast and smooth moves and as well as real-time updates using Socket.IO.",
     "skills": ["Express", "Node", "Socket.IO"],
     "demo": "https://tictactoe-k069.onrender.com/",

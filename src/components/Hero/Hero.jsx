@@ -51,7 +51,7 @@ export const Hero = () => {
           I am a developer and a programmer in C++ who loves to learn new
           technologies and connect with others.
         </p>
-        <a href="https://drive.google.com/file/d/1lPvZ7PyLUbq-_msXC7E0lupRE33dt8BX/view?usp=sharing" download="ashish_resume.pdf" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1J6GBraGC7ldQlrkKWyGP6bOlhRJXbm2a/view?usp=sharing" download="ashish_resume.pdf" className={styles.contactBtn}>
           Download CV
         </a>
       </div>
