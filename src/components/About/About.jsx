@@ -64,7 +64,7 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img className={styles.imgsvg} src={getImageUrl("about/deltech.png")} alt="student icon" />
+            <img className={styles.imgsvg} src={getImageUrl("about/university.png")} alt="student icon" />
             <div className={styles.aboutItemText}>
               <h3>B.Tech Student</h3>
               <p>
