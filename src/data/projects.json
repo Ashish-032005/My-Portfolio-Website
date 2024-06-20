@@ -18,8 +18,8 @@
   {
     "title": "RealTime Tic-Tac-Toe",
     "imageSrc": "projects/image.png",
-    "description": "Pioneered an immersive gaming environment with lightning-fast moves and real-time updates using Socket.IO. ",
-    "skills": ["Express", "Node", "JavaScript", "Socket IO"],
+    "description": "Pioneered an immersive gaming environment with lightning-fast and smooth moves and as well as real-time updates using Socket.IO.",
+    "skills": ["Express", "Node", "Socket.IO"],
     "demo": "https://tictactoe-k069.onrender.com/",
     "source": "https://github.com/ArpanBareja/RealTime-TicTacToe"
   }

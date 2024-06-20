@@ -33,9 +33,13 @@
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 50px;
 }
-
+.imgsvg{
+  height: 90px;
+  width: 71px;
+  margin: 5px;
+}
 .aboutItem {
   display: flex;
   flex-direction: row;
