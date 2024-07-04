@@ -4,7 +4,7 @@
     "imageSrc": "projects/image.png",
     "description": "It is My Portfolio Website built to showcase my skill and to show my ability to make highly responsive websites with an attractive user interface.",
     "skills": ["React", "JavaScript", "TailWindCSS"],
-    "demo": "https://my-portfolio-website-eight-alpha.vercel.app/",
+    "demo": "https://ashish-portfolio-web.vercel.app/",
     "source": "https://github.com/Ashish-032005/My-Portfolio-Website"
   },
   {
