@@ -8,19 +8,19 @@
     "source": "https://github.com/Ashish-032005/My-Portfolio-Website"
   },
   {
+    "title": "RealTime Tic-Tac-Toe",
+    "imageSrc": "projects/image3.png",
+    "description": "Pioneered an immersive gaming environment with lightning-fast and smooth moves and as well as real-time updates using Socket.IO.",
+    "skills": ["Express", "Node", "Socket.IO"],
+    "demo": "https://cross-player-game.onrender.com/",
+    "source": "https://github.com/Ashish-032005/My-Portfolio-Website"
+  },
+  {
     "title": "NetUI",
     "imageSrc": "projects/image2.png",
     "description": "It is just a UI of Netflix, I built it just to showcase my skills after learning Css. Focusing on modern design principles and user experience.",
     "skills": ["Html", "Css", "TailWindCSS"],
     "demo": "https://ashish-032005.github.io/NetFlixClone-Using-HTML-CSS/",
     "source": "https://github.com/Ashish-032005/NetFlixClone-Using-HTML-CSS"
-  },
-  {
-    "title": "RealTime Tic-Tac-Toe",
-    "imageSrc": "projects/image3.png",
-    "description": "Pioneered an immersive gaming environment with lightning-fast and smooth moves and as well as real-time updates using Socket.IO.",
-    "skills": ["Express", "Node", "Socket.IO"],
-    "demo": "https://tictactoe-k069.onrender.com/",
-    "source": "https://github.com/ArpanBareja/RealTime-TicTacToe"
   }
 ]
