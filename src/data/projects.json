@@ -16,11 +16,11 @@
     "source": "https://github.com/Ashish-032005/My-Portfolio-Website"
   },
   {
-    "title": "NetUI",
+    "title": "X-UI",
     "imageSrc": "projects/image2.png",
-    "description": "It is just a UI of Netflix, I built it just to showcase my skills after learning Css. Focusing on modern design principles and user experience.",
+    "description": "It is just a UI of X, I built it just to showcase my skills after learning Tailwind CSS. Focusing on modern design principles and user experience.",
     "skills": ["Html", "Css", "TailWindCSS"],
-    "demo": "https://ashish-032005.github.io/NetFlixClone-Using-HTML-CSS/",
-    "source": "https://github.com/Ashish-032005/NetFlixClone-Using-HTML-CSS"
+    "demo": "https://sweet-douhua-87165c.netlify.app/",
+    "source": "https://github.com/Ashish-032005/X-Clone"
   }
 ]
